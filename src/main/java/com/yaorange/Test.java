@@ -8,4 +8,5 @@ package com.yaorange;
  * @create: 2021-04-15 14:30:06
  */
 public class Test {
+  private String username
 }
